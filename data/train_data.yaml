@@ -5,6 +5,6 @@ test: test/    # test images (optional)
 
 # Classes
 nc: 3  # number of classes
-names: ['weapon', 'suspicious', 'person']  # class names
+names: ['person', 'suspicious', 'weapon']  # class names
 
 
